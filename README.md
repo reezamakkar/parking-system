@@ -17,5 +17,3 @@ Low level design for Vehicle parking system. The vehicle parking system has one 
 5. The system should support parking for different types of vehicles like car, truck, van, motorcycle, etc.
 
 6. Each parking floor should have a display board showing any free parking spot for each spot type.
-
-7. The system should support a per-hour parking fee model. For example, customers have to pay $4 for the first hour, $3.5 for the second and third hours, and $2.5 for all the remaining hours.
